@@ -1,0 +1,7 @@
+[AutoRun.Amd64]
+open=setup.exe
+icon=setup.exe,0
+
+[AutoRun]
+open=sources\sperr32.exe x64
+icon=sources\sperr32.exe,0
